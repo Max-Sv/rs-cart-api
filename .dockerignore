@@ -1,0 +1,9 @@
+# packages and build files
+node_modules
+dist
+
+# git files
+.git
+
+# log files
+*.log
